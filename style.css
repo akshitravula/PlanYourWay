@@ -97,12 +97,13 @@ p {
 /* Title Image */
 
 .title-img {
-    width: 623px;
-    height: 582px;
+    width: 515px;
+    height: 413px;
     display: flex;
     float: right;	
         position: relative;
         overflow: hidden;
+	allign-items: center;
 	
 	
 	
