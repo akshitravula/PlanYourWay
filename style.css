@@ -99,11 +99,8 @@ p {
 .title-img {
     width: 623px;
     height: 582px;
-    position: relative;
-    overflow: hidden;
     display: flex;
-	float: right;
-	    justify-content: space-evenly;
+	
 }
 
 .icon-img {
