@@ -97,9 +97,13 @@ p {
 /* Title Image */
 
 .title-img {
-    width: 140%;
-    height: 80%;
-    padding-left: 0%;
+    width: 623px;
+    height: 582px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+	float: right;
+	    justify-content: space-evenly;
 }
 
 .icon-img {
