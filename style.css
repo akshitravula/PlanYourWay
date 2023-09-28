@@ -100,6 +100,11 @@ p {
     width: 623px;
     height: 582px;
     display: flex;
+    float: right;	
+        position: relative;
+        overflow: hidden;
+	
+	
 	
 }
 
